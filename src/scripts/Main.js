@@ -1,2 +1,12 @@
-// Met ta classe ici
-// PS, y'a une icône dans ce laboratoire, pense à la charger
+import Icons from './utils/Icons';
+
+class Main {
+  constructor() {
+    this.init();
+  }
+
+  init() {
+    Icons.load();
+  }
+}
+new Main();

@@ -3,6 +3,7 @@
    ========================================================================== */
 
 .header {
+    color: white;
     display: flex;
     padding: calc(var(--spacing-md) / 2) var(--spacing-md);
 }
@@ -16,7 +17,7 @@
     --size: 50px;
 
     background-color: transparent;
-    color: white;
+    color: currentColor;
     border: none;
     height: var(--size);
     width: var(--size);
