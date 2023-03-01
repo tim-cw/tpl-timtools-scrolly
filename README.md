@@ -5,7 +5,8 @@ Introduction de la composante Scrolly qui nous permet d'ajouter des animations d
 
 ## **Consigne de l'exercice**
 
-Lien youtube: METTRE LIEN ICI
+Lien youtube pour Scrolly: https://www.youtube.com/watch?v=dF2RAT0ySHQ
 
+Lien youtube pour ComponentFactory: https://www.youtube.com/watch?v=4co60AhQumg
 <br><br>
 
