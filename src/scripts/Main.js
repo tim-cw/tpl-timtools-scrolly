@@ -6,6 +6,7 @@ class Main {
   }
 
   init() {
+    // Chargement du sprite svg par le système d'icône
     Icons.load();
   }
 }
