@@ -10,4 +10,5 @@ class Main {
     Icons.load();
   }
 }
+
 new Main();
